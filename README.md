@@ -2,7 +2,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.9.6-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.2.5-brightgreen.svg)](https://djangoproject.com)
 
-notes is an api built with Django.
+notes is a Web API built with Django REST framework.
 
 ## Running the Project Locally
 
